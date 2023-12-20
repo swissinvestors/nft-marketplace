@@ -1,0 +1,19 @@
+
+
+.footer {
+  padding-top: 5em;
+  padding-bottom: 3em;
+
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: center;
+
+}
+
+.footerLogo {padding: 10px;}
+
+.footerText {
+color: #1b1024;
+  margin-top: 10px;
+}
